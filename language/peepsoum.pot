@@ -1,0 +1,266 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: PeepSo Tools: Ultimate Member Migrator\n"
+"POT-Creation-Date: 2018-10-22 11:33+0700\n"
+"PO-Revision-Date: 2018-10-22 11:33+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: peepsomigrate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/migrate.php:151
+msgid "Profile Avatars"
+msgstr ""
+
+#: classes/migrate.php:155
+msgid "Profile Covers"
+msgstr ""
+
+#: classes/migrate.php:159
+msgid "Stream Photos"
+msgstr ""
+
+#: classes/migrate.php:377
+msgid "liked your post"
+msgstr ""
+
+#: classes/migrate.php:430 classes/migrate.php:458
+msgid "liked your comment"
+msgstr ""
+
+#: classes/migrate.php:1020
+msgid "mentioned you"
+msgstr ""
+
+#: peepsomigrate.php:126
+#, php-format
+msgid "The %s plugin requires the PeepSo plugin to be installed and activated."
+msgstr ""
+
+#: peepsomigrate.php:139
+#, php-format
+msgid ""
+"The %s plugin requires the Ultimate Member plugin to be installed and "
+"activated."
+msgstr ""
+
+#: peepsomigrate.php:156
+msgid "PeepSoUM"
+msgstr ""
+
+#: templates/migrate/dashboard.php:25
+msgid ""
+"Please make sure gender and birthdate fields are matched as you want them to "
+"be migrated."
+msgstr ""
+
+#: templates/migrate/dashboard.php:27
+msgid ""
+"Also, note that any and all data that you have currently in PeepSo will be "
+"removed."
+msgstr ""
+
+#: templates/migrate/dashboard.php:29
+msgid "Do you wish to proceed?"
+msgstr ""
+
+#: templates/migrate/dashboard.php:31
+msgid "Yes"
+msgstr ""
+
+#: templates/migrate/dashboard.php:32
+msgid "No"
+msgstr ""
+
+#: templates/migrate/dashboard.php:40
+msgid ""
+"This migrator has been created to enable administrators of Ultimate Member-"
+"based communities to move easily to PeepSo and experience social networking "
+"for WordPress at its best. Because Ultimate Member and PeepSo do not share "
+"exactly the same sets of features, some of the data on Ultimate Member "
+"cannot currently be moved."
+msgstr ""
+
+#: templates/migrate/dashboard.php:44
+msgid ""
+"Depending on the Ultimate Member components and PeepSo plugins installed, "
+"the migrator is able to transfer the following data:"
+msgstr ""
+
+#: templates/migrate/dashboard.php:48
+msgid "User Profiles"
+msgstr ""
+
+#: templates/migrate/dashboard.php:52
+msgid "User Profile Avatars and Cover images"
+msgstr ""
+
+#: templates/migrate/dashboard.php:58 templates/migrate/dashboard.php:72
+#: templates/migrate/dashboard.php:86 templates/migrate/dashboard.php:206
+msgid "Requires"
+msgstr ""
+
+#: templates/migrate/dashboard.php:66
+msgid "User Friends and Followers"
+msgstr ""
+
+#: templates/migrate/dashboard.php:80
+msgid "User Photo Albums"
+msgstr ""
+
+#: templates/migrate/dashboard.php:94
+msgid "User Messages"
+msgstr ""
+
+#: templates/migrate/dashboard.php:98
+msgid "Activity Stream (User status updates and comments on status updates)"
+msgstr ""
+
+#: templates/migrate/dashboard.php:102
+msgid "Notifications"
+msgstr ""
+
+#: templates/migrate/dashboard.php:110
+msgid ""
+"Core Profile Fields (First Name, Last Name, Gender, Birthday, About me, "
+"Website)"
+msgstr ""
+
+#: templates/migrate/dashboard.php:111
+msgid "Select Ultimate Member Gender Field"
+msgstr ""
+
+#: templates/migrate/dashboard.php:115 templates/migrate/dashboard.php:126
+#: templates/migrate/dashboard.php:184
+msgid "Select Field ..."
+msgstr ""
+
+#: templates/migrate/dashboard.php:140
+msgid "Select Male Field"
+msgstr ""
+
+#: templates/migrate/dashboard.php:142
+msgid "Select Female Field"
+msgstr ""
+
+#: templates/migrate/dashboard.php:148
+msgid "Select Custom Field"
+msgstr ""
+
+#: templates/migrate/dashboard.php:181
+msgid "Select Ultimate Member Birthdate Field"
+msgstr ""
+
+#: templates/migrate/dashboard.php:214
+msgid ""
+"Custom Profile Fields (Text, Multiple and Single Select, Date, URL... All "
+"fields will be automatically created in PeepSo and data migrated accordingly)"
+msgstr ""
+
+#: templates/migrate/dashboard.php:221
+msgid "Note:"
+msgstr ""
+
+#: templates/migrate/dashboard.php:221
+msgid ""
+"After running the migrator, the Ultimate Member and the Migration plugins "
+"will be automatically deactivated."
+msgstr ""
+
+#: templates/migrate/dashboard.php:225
+msgid "Cancel"
+msgstr ""
+
+#: templates/migrate/dashboard.php:229
+msgid "Start Migration"
+msgstr ""
+
+#: templates/migrate/header.php:1
+msgid "Ultimate Member to PeepSo Migrator"
+msgstr ""
+
+#: templates/migrate/header.php:2
+msgid "Ultimate Member version 2.0.X and the latest version of PeepSo"
+msgstr ""
+
+#: templates/migrate/progress.php:10
+msgid "The migration has been completed successfully!"
+msgstr ""
+
+#: templates/migrate/progress.php:12
+msgid ""
+"NOTE:The PeepSoMigrator and Ultimate Member plugins have been deactivated."
+msgstr ""
+
+#: templates/migrate/progress.php:14
+msgid "See Dashboard"
+msgstr ""
+
+#: templates/migrate/progress.php:15
+msgid "See Frontend"
+msgstr ""
+
+#: templates/migrate/progress.php:22
+msgid "General Progress"
+msgstr ""
+
+#: templates/migrate/progress.php:24
+msgid "User Profiles and Core Profile Fields"
+msgstr ""
+
+#: templates/migrate/progress.php:26
+msgid "User Profile Avatars and Cover Images"
+msgstr ""
+
+#: templates/migrate/progress.php:29
+msgid "User Friends"
+msgstr ""
+
+#: templates/migrate/progress.php:33
+msgid "User Followers"
+msgstr ""
+
+#: templates/migrate/progress.php:37
+msgid "Activity"
+msgstr ""
+
+#: templates/migrate/progress.php:41
+msgid "Album"
+msgstr ""
+
+#: templates/migrate/progress.php:45
+msgid "Message"
+msgstr ""
+
+#: templates/migrate/progress.php:49
+msgid "Custom Profile Fields"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PeepSo Tools: Ultimate Member Migrator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://peepso.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Migration plugin from Ultimate Member to PeepSo"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PeepSo"
+msgstr ""
